@@ -45,16 +45,16 @@ Structural patterns focus on **how classes and objects are composed** to form la
 
 Behavioral patterns focus on **communication between objects** and **how responsibilities are distributed** within a system.
 
-* **01_Chain_of_Responsibility.md** – Passing requests through a chain of handlers.
-* **02_Command.md** – Encapsulating requests as objects.
-* **03_Iterator.md** – Accessing elements sequentially without exposing the underlying structure.
-* **04_Mediator.md** – Centralizing communication between multiple objects.
-* **05_Memento.md** – Saving and restoring an object's previous state.
-* **06_Observer.md** – Notifying multiple objects when another object changes.
-* **07_State_pattern.md** – Changing an object's behavior based on its internal state.
-* **08_Strategy_pattern.md** – Selecting an algorithm at runtime.
-* **09_Template_method.md** – Defining the skeleton of an algorithm in a base class while allowing subclasses to customize specific steps.
-* **10_Visitor.md** – Adding new operations to existing object structures without modifying them.
+* **[01_chain_of_responsibility.md](behaviorals/01_chain_of_responsibility.md)** – Passing requests through a chain of handlers.
+* **[02_command.md](behaviorals/02_command.md)** – Encapsulating requests as objects.
+* **[03_iterator.md](behaviorals/03_iterator.md)** – Accessing elements sequentially without exposing the underlying structure.
+* **[04_mediator.md](behaviorals/04_mediator.md)** – Centralizing communication between multiple objects.
+* **[05_memento.md](behaviorals/05_memento.md)** – Saving and restoring an object's previous state.
+* **[06_observer.md](behaviorals/06_observer.md)** – Notifying multiple objects when another object changes.
+* **[07_state.md](behaviorals/07_state.md)** – Changing an object's behavior based on its internal state.
+* **[08_strategy.md](behaviorals/08_strategy.md)** – Selecting an algorithm at runtime.
+* **[09_template_method.md](behaviorals/09_template_method.md)** – Defining the skeleton of an algorithm in a base class while allowing subclasses to customize specific steps.
+* **[10_visitor.md](behaviorals/10_visitor.md)** – Adding new operations to existing object structures without modifying them.
 
 ---
 
