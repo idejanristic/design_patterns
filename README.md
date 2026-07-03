@@ -2,14 +2,6 @@
 
 This repository provides comprehensive documentation for the most important **Design Patterns** used in software engineering. It covers **23 design patterns**, organized into three main categories based on their purpose.
 
-## Project Overview
-
-Design patterns are **reusable solutions to recurring software design problems**. Rather than being complete implementations, they are proven design approaches that help developers build flexible, maintainable, and extensible software.
-
-This project provides a detailed explanation of each pattern, including its purpose, implementation, advantages, disadvantages, and practical examples.
-
----
-
 ##  Project Structure
 
 The project is organized into three major categories.
@@ -58,27 +50,6 @@ Behavioral patterns focus on **communication between objects** and **how respons
 
 ---
 
-## When to Use This Repository
-
-This documentation can be used for:
-
-* **Learning** – Understanding the fundamental design patterns used in object-oriented software development.
-* **Quick Reference** – Finding the appropriate pattern for a specific design problem.
-* **Documentation** – Reviewing the purpose, advantages, disadvantages, and implementation of each pattern.
-* **Software Development** – Applying design patterns in real-world projects.
-
----
-
-## How to Use This Repository
-
-1. Identify the type of design problem you are trying to solve.
-2. Browse the corresponding category (Behavioral, Creational, or Structural).
-3. Open the relevant Markdown document.
-4. Read the explanation, advantages, disadvantages, and implementation examples.
-5. Apply the pattern where it best fits your application.
-
----
-
 ## Pattern Categories
 
 | Category       | Focus                                         | Number of Patterns |
@@ -99,18 +70,6 @@ This documentation can be used for:
 * Practical code examples
 * Common use cases
 * Guidelines on when to use (and when not to use) the pattern
-
----
-
-## Intended Audience
-
-This repository is intended for:
-
-* Software Developers
-* Software Architects
-* Computer Science Students
-* Anyone learning Object-Oriented Design (OOD)
-* Developers preparing for technical interviews
 
 ---
 
