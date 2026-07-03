@@ -31,13 +31,13 @@ Creational patterns focus on **object creation mechanisms**, making the process 
 
 Structural patterns focus on **how classes and objects are composed** to form larger, more flexible structures.
 
-* **01_Adapter.md** – Making incompatible interfaces work together.
-* **02_Bridge.md** – Decoupling an abstraction from its implementation.
-* **03_Composite.md** – Composing objects into tree structures to represent part-whole hierarchies.
-* **04_Decorator.md** – Dynamically adding new behavior to an object.
-* **05_Facade.md** – Providing a simplified interface to a complex subsystem.
-* **06_Flyweight.md** – Sharing common state among multiple objects to reduce memory usage.
-* **07_Proxy.md** – Providing a placeholder or surrogate for another object.
+* **[01_adapter.md](structurals/01_adapter.md)** – Making incompatible interfaces work together.
+* **[02_bridge.md](structurals/02_bridge.md)** – Decoupling an abstraction from its implementation.
+* **[03_Composite.md](structurals/03_composite.md)** – Composing objects into tree structures to represent part-whole hierarchies.
+* **[04_decorator.md](structurals/04_decorator.md)** – Dynamically adding new behavior to an object.
+* **[05_facade.md](structurals/05_facade.md)** – Providing a simplified interface to a complex subsystem.
+* **[06_flyweight.md](structurals/06_flyweight.md)** – Sharing common state among multiple objects to reduce memory usage.
+* **[07_proxy.md](structurals/07_proxy.md)** – Providing a placeholder or surrogate for another object.
 
 ---
 
