@@ -1,6 +1,6 @@
 # Factory Method Pattern
 
-## Definition (English)
+## Definition
 
 **Factory Method** is a **creational design pattern** that defines an interface for creating objects, but lets subclasses decide which concrete class to instantiate.
 
