@@ -531,19 +531,18 @@ may cause performance issues with recursion.
 
 ## When to use Composite?
 
-✔ When modeling hierarchical structures
-✔ When treating individual and group objects uniformly
-✔ When working with tree-like data
-✔ When avoiding `if/else` type checks
+* ✅ When modeling hierarchical structures
+* ✅ When treating individual and group objects uniformly
+* ✅ When working with tree-like data
+* ✅ When avoiding `if/else` type checks
 
 ---
 
 ## When to avoid it?
 
-✖ No hierarchy exists
-✖ No need to treat groups and single objects the same
-✖ It adds unnecessary complexity
-
+* ❌ No hierarchy exists
+* ❌ No need to treat groups and single objects the same
+* ❌ It adds unnecessary complexity
 ---
 
 ## Real-world example

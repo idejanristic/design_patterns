@@ -440,18 +440,18 @@ Subsystem
 
 ## When to use Facade?
 
-✔ When the subsystem is complex
-✔ When you want a simple API
-✔ When you want to hide implementation details
-✔ When you want to reduce dependencies
+* ✅ When the subsystem is complex
+* ✅ When you want a simple API
+* ✅ When you want to hide implementation details
+* ✅ When you want to reduce dependencies
 
 ---
 
 ## When NOT to use it?
 
-✘ When the subsystem is simple
-✘ When clients need advanced subsystem features
-✘ When Facade becomes too large
+* ❌ When the subsystem is simple
+* ❌ When clients need advanced subsystem features
+* ❌ When Facade becomes too large
 
 ---
 
