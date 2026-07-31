@@ -1,4 +1,4 @@
-Evo prevoda u istom stilu kao i za **Singleton**, **Builder** i **Prototype**.
+
 # Simple Factory Pattern
 
 > **Note:** **Simple Factory** is **not an official Gang of Four (GoF) design pattern**, but rather a commonly used object creation idiom.
